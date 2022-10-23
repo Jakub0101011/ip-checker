@@ -1,2 +1,3 @@
 # ip-checker
-😎 Application checking your ip (no virus, etc.)
+Coming soon... 😉
+contact (discord): Джейкоб;#0320
