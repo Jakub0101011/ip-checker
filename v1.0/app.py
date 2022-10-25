@@ -21,7 +21,7 @@ print(center(f"""\n\n
         HeLLo;]\n\n
               """).replace('~', Fore.MAGENTA+"~"+Fore.RESET).replace('-', Fore.MAGENTA+"-"+Fore.RESET))
 
-resp = requests.get("http://ipwho.is/8.8.8.8").json()
+resp = requests.get("http://ipwho.is/").json()
 #MAIN
 print(Fore.YELLOW+'Success?'+Fore.RESET,resp['success'])
 print(Fore.BLUE+'[Main info]'+Fore.RESET)
