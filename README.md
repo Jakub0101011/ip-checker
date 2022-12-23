@@ -31,4 +31,4 @@ You can run applications via:
 > ![obraz](https://user-images.githubusercontent.com/94227436/202520601-d8202d8b-19da-49a5-8468-0034362b1122.png)
 
 ### Contact:
-<img src = "https://emoji.gg/assets/emoji/5390-discordlogo.png" width = 20px> `discord: Джейкоб;#0320`
+<img src = "https://emoji.gg/assets/emoji/5390-discordlogo.png" width = 20px> `discord: Jakub0101011;#0320`
